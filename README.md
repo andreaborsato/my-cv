@@ -1,6 +1,5 @@
 ---
-layout: cv
-title: Andrea Borsato's CV
+title: Andrea Borsato's cv
 ---
 # Andrea Borsato
 Communication Designer | Arduino & JavaScript enthusiast | Maker in the making.
