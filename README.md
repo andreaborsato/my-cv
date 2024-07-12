@@ -13,7 +13,7 @@ This repository is home to my HTML-based CV, designed to give you a glimpse into
 ## Getting Started
 
 To explore my portfolio, simply click on the link below to view my HTML CV.
-[View My HTML CV](./AndreaBorsatoCV.html)
+[View My HTML CV](./index.html)
 
 ## Let's Connect 🔗
 
