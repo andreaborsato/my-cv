@@ -52,7 +52,7 @@
   	top: 262px;
   	left: 10px;
   	display: inline;
-    overflow-x: hidden;
+    overflow-x: clip;
   	width: 1900px;
 }
 .cut-here- {
