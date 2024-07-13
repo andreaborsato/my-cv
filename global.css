@@ -1,7 +1,7 @@
 body {
 margin: 0;
 line-height: normal;
-display: inline;
+    white-space: nowrap;
     /* white-space: pre; */
 }
 

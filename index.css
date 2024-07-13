@@ -52,8 +52,8 @@
   	top: 262px;
   	left: 10px;
   	display: inline;
-    overflow-x: clip;
   	width: 1900px;
+    white-space: nowrap;
 }
 .cut-here- {
   	position: absolute;
