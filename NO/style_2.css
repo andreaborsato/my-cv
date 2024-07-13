@@ -1,0 +1,43 @@
+*{
+    margin:0;
+}
+
+
+body{
+    font-family: monospace;
+}
+
+
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+    margin: auto;
+    width: 50vw;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+a{
+    text-decoration: underline;
+    color: black;
+}
+
+.ascii{
+    font-family: monospace;
+    white-space: pre;
+}
+.container{
+    display: flex;
+}
+ 
+
+.center-80{
+    display: flex;
+    position: relative;
+    width: fit-content;
+    background-color: bisque;
+}
+
+.spacer-2{
+    height: 2vh;
+}
