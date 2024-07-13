@@ -1,7 +1,7 @@
 body {
 margin: 0;
 line-height: normal;
-overflow-x: hidden;
+display: inline;
     /* white-space: pre; */
 }
 
