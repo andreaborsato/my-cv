@@ -26,10 +26,18 @@
   	height: 173px;
   	font-size: 13.91px;
 }
-.my-portfolio {
+.left-margin {
   	margin: 0;
 }
-.my-portfolio-container {
+.left-margin-container {
+  	position: absolute;
+  	top: 155px;
+  	left: calc(30% - 589px);
+}
+.navbar {
+  	margin: 0;
+}
+.navbar-container {
   	position: absolute;
   	top: 155px;
   	left: calc(50% - 589px);
@@ -54,7 +62,7 @@
 .hello-world-container {
   	position: absolute;
   	top: 311px;
-  	left: 159px;
+  	left: 50px;
   	display: inline-block;
   	width: 795px;
 }
@@ -66,67 +74,67 @@
 .div1 {
   	position: absolute;
   	top: 627px;
-  	left: 800px;
+  	left: calc(800px - 109px);
 }
 .jan-2023-container {
   	position: absolute;
   	top: 938px;
-  	left: 1240px;
+  	left: calc(1240px - 109px);
 }
 .education {
   	position: absolute;
   	top: 584px;
-  	left: 159px;
+  	left: 50px;
 }
 .work-experiences {
   	position: absolute;
   	top: 895px;
-  	left: 159px;
+  	left: 50px;
 }
 .high-school-diploma-container {
   	position: absolute;
   	top: 627px;
-  	left: 159px;
+  	left: 50px;
 }
 .brand-ambassador-x-save-container {
   	position: absolute;
   	top: 938px;
-  	left: 159px;
+  	left: 50px;
 }
 .div2 {
   	position: absolute;
   	top: 646px;
-  	left: 574px;
+  	left: calc(574px - 109px);
 }
 .div3 {
   	position: absolute;
   	top: 722px;
-  	left: 574px;
+  	left: calc(574px - 109px);
 }
 .div4 {
   	position: absolute;
   	top: 798px;
-  	left: 574px;
+  	left: calc(574px - 109px);
 }
 .div5 {
   	position: absolute;
   	top: 957px;
-  	left: 1008px;
+  	left: calc(1008px - 109px);
 }
 .div6 {
   	position: absolute;
   	top: 1029px;
-  	left: 1008px;
+  	left: calc(1008px - 109px);
 }
 .div7 {
   	position: absolute;
   	top: 1105px;
-  	left: 1008px;
+  	left: calc(1008px - 109px);
 }
 .div8 {
   	position: absolute;
   	top: 1181px;
-  	left: 1008px;
+  	left: calc(1008px - 109px);
 }
 .andreborsato16gmailcom-container {
   	position: absolute;
