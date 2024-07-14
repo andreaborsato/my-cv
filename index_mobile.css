@@ -8,9 +8,12 @@
 
 .logo_mobile{
     white-space: pre-wrap;
-    margin: 0;
     position: relative;
-    width: fit-content;
+    width: 100vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 .andrea-borsato_mobile {
   	position: relative;
