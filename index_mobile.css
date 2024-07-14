@@ -1,0 +1,273 @@
+
+
+@media screen and (max-width: 999px) {
+   .p_mobile {
+  	margin: 0;
+  	white-space: pre-wrap;
+}
+
+.logo_mobile{
+    white-space: pre-wrap;
+    margin: 0;
+    position: relative;
+    width: fit-content;
+}
+.andrea-borsato_mobile {
+  	position: relative;
+  	top: 24px;
+  	left: calc(50% - 195px);
+  	font-size: 8.29px;
+}
+.communication-designer_mobile {
+  	margin: 0;
+}
+.communication-designer-container_mobile {
+  	position: relative;
+  	margin-top: 5vh;
+  	left: calc(50% - 174px);
+}
+.my-portfolio-container_mobile {
+  	position: relative;
+  	/* top: 136px; */
+  	/* left: calc(50% - 156px); */
+    margin-top: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+
+}
+.about-me-_mobile {
+  	position: relative;
+  	top: 2vh;
+  	left: 10px;
+  	display: inline-block;
+  	width: 100vw;
+    white-space: nowrap;
+}
+.hello-world-container_mobile {
+  	position: relative;
+  	margin-top: 5vh;
+  	left: 20px;
+  	display: inline-block;
+  	width: 306px;
+}
+.div_mobile {
+  	position: relative;
+  	top: 876px;
+  	left: 20px;
+  	white-space: pre-wrap;
+}
+.div1_mobile {
+  	position: relative;
+  	top: 792px;
+  	left: 20px;
+}
+.div2_mobile {
+  	position: relative;
+  	top: 708px;
+  	left: 20px;
+}
+.education_mobile {
+  	position: relative;
+  	top: 678px;
+  	left: 20px;
+}
+.high-school-diploma-container_mobile {
+  	position: relative;
+  	top: 734px;
+  	left: 20px;
+}
+.msc-in-digital-container_mobile {
+  	position: relative;
+  	top: 902px;
+  	left: 20px;
+}
+.bachelor-degree-in-container_mobile {
+  	position: relative;
+  	top: 818px;
+  	left: 20px;
+}
+.jan-2023_mobile {
+  	position: relative;
+  	top: 1218px;
+  	left: 20px;
+}
+.jan-2024_mobile {
+  	position: relative;
+  	top: 1316px;
+  	left: 20px;
+}
+.work-experiences_mobile {
+  	position: relative;
+  	top: 992px;
+  	left: 20px;
+}
+.web-developer-x-interdependenc-container_mobile {
+  	position: relative;
+  	top: 1342px;
+  	left: 20px;
+}
+.exhibition-design-x-anthropoge-container_mobile {
+  	position: relative;
+  	top: 1244px;
+  	left: 20px;
+}
+.web-content-editor-container_mobile {
+  	position: relative;
+  	top: 1146px;
+  	left: 20px;
+}
+.brand-ambassador-x-save-container_mobile {
+  	position: relative;
+  	top: 1048px;
+  	left: 20px;
+}
+.div3_mobile {
+  	position: relative;
+  	top: 1022px;
+  	left: 20px;
+}
+.div4_mobile {
+  	position: relative;
+  	top: 1120px;
+  	left: 20px;
+}
+.andrea-borsato1_mobile {
+  	position: relative;
+  	top: 0px;
+  	left: calc(50% - 159.5px);
+}
+.andrea-borsato2_mobile {
+  	position: relative;
+  	top: 77px;
+  	left: calc(50% - 159.5px);
+}
+.andrea-borsato-group {
+  	position: relative;
+  	top: 1778px;
+  	left: calc(50% - 159px);
+  	width: 319px;
+  	height: 173px;
+  	font-size: 13.91px;
+}
+.cut-here-_mobile {
+  	position: relative;
+  	top: 1746px;
+  	left: 0px;
+}
+.andreborsato16gmailcom-container_mobile {
+  	position: relative;
+  	top: 1983px;
+  	left: calc(50% - 137px);
+}
+.andrea-borsato-parent_mobile {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 2168px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 12px;
+  	color: #000;
+  	font-family: Menlo;
+} 
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1000px) {
+   .p_mobile {
+  	display: none;
+}
+.andrea-borsato_mobile {
+  	display: none;
+}
+.communication-designer_mobile {
+  	display: none;
+}
+.communication-designer-container_mobile {
+  	display: none;
+}
+.my-portfolio-container_mobile {
+  	display: none;
+}
+.about-me-_mobile {
+  	display: none;
+}
+.hello-world-container_mobile {
+  	display: none;
+}
+.div_mobile {
+  	display: none;
+}
+.div1_mobile {
+  	display: none;
+}
+.div2_mobile {
+  	display: none;
+}
+.education_mobile {
+  	display: none;
+}
+.high-school-diploma-container_mobile {
+  	display: none;
+}
+.msc-in-digital-container_mobile {
+  	display: none;
+}
+.bachelor-degree-in-container_mobile {
+  	display: none;
+}
+.jan-2023_mobile {
+  	display: none;
+}
+.jan-2024_mobile {
+  	display: none;
+}
+.work-experiences_mobile {
+  	display: none;
+}
+.web-developer-x-interdependenc-container_mobile {
+  	display: none;
+}
+.exhibition-design-x-anthropoge-container_mobile {
+  	display: none;
+}
+.web-content-editor-container_mobile {
+  	display: none;
+}
+.brand-ambassador-x-save-container_mobile {
+  	display: none;
+}
+.div3_mobile {
+  	display: none;
+}
+.div4_mobile {
+  	display: none;
+}
+.andrea-borsato1_mobile {
+  	display: none;
+}
+.andrea-borsato2_mobile {
+  display: none;
+}
+.andrea-borsato-group {
+  	display: none;
+}
+.cut-here-_mobile {
+  	display: none;
+}
+.andreborsato16gmailcom-container_mobile {
+  	display: none;
+}
+.andrea-borsato-parent_mobile {
+  	display: none;
+} 
+}
+
+
