@@ -3,7 +3,7 @@
 @media screen and (max-width: 999px) {
    .p_mobile {
   	margin: 0;
-  	white-space: pre-wrap;
+  	white-space: nowrap;
 }
 
 .logo_mobile{
@@ -41,7 +41,7 @@
 }
 .about-me-_mobile {
   	position: relative;
-  	top: 2vh;
+  	margin-top: 40px;
     margin-left: 6vw;
   	display: inline-block;
   	width: 100vw;
@@ -52,43 +52,50 @@
   	margin-top: 5vh;
   	margin-left: 6vw;
   	display: inline-block;
-  	width: 306px;
+  	width: 80vw;
 }
 .div_mobile {
   	position: relative;
-  	top: 876px;
-  	left: 20px;
-  	white-space: pre-wrap;
+  	margin-top: 16px;
+  	margin-left: 6vw;
+
 }
 .div1_mobile {
   	position: relative;
-  	top: 792px;
-  	left: 20px;
+  	margin-top: 16px;
+  	margin-left: 6vw;
+
+
 }
 .div2_mobile {
   	position: relative;
-  	top: 12vh;
+  	margin-top: 16px;
   	margin-left: 6vw;
+
+
 }
 .education_mobile {
   	position: relative;
-  	margin-top: 6vh;
+  	margin-top: 48px;
   	margin-left: 6vw;
 }
 .high-school-diploma-container_mobile {
   	position: relative;
-  	margin-top: 6vh;
+  	margin-top: 8px;
     margin-left: 6vw;
+    white-space: nowrap;
 }
 .msc-in-digital-container_mobile {
   	position: relative;
-  	top: 902px;
-  	left: 20px;
+  	margin-top: 8px;
+    margin-left: 6vw;
+    white-space: nowrap;
 }
 .bachelor-degree-in-container_mobile {
   	position: relative;
-  	top: 818px;
-  	left: 20px;
+  	margin-top: 8px;
+    margin-left: 6vw;
+    white-space: nowrap;
 }
 .jan-2023_mobile {
   	position: relative;
