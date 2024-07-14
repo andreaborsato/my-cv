@@ -1,3 +1,5 @@
+@media screen and (min-width: 1000px) {
+    
 .p {
   	margin: 0;
   	white-space: pre-wrap;
@@ -154,5 +156,100 @@
   	font-size: 16px;
   	color: #000;
   	font-family: Menlo, monospace;
+}
+
+
+}
+
+@media screen and (max-width: 999px) {
+    
+    .p {
+    display: none;
+}
+.andrea-borsato {
+display: none;
+}
+.andrea-borsato1 {
+display: none;
+}
+.andrea-borsato2 {
+display: none;
+}
+.andrea-borsato-parent {
+display: none;
+}
+.left-margin {
+display: none;
+}
+.left-margin-container {
+display: none;
+}
+.navbar {
+display: none;
+}
+.navbar-container {
+display: none;
+}
+.communication-designer {
+display: none;
+}
+.about-me- {
+display: none;
+}
+.cut-here- {
+display: none;
+}
+.hello-world-container {
+display: none;
+}
+.div {
+display: none;
+}
+.div1 {
+display: none;
+}
+.jan-2023-container {
+display: none;
+}
+.education {
+display: none;
+}
+.work-experiences {
+display: none;
+}
+.high-school-diploma-container {
+display: none;
+}
+.brand-ambassador-x-save-container {
+display: none;
+}
+.div2 {
+display: none;
+}
+.div3 {
+display: none;
+}
+.div4 {
+display: none;
+}
+.div5 {
+display: none;
+}
+.div6 {
+display: none;
+}
+.div7 {
+display: none;
+}
+.div8 {
+display: none;
+}
+.andreborsato16gmailcom-container {
+display: none;
+}
+.slide-169-1 {
+display: none;
+}
+
 }
 
