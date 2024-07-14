@@ -28,11 +28,13 @@
 }
 .left-margin {
   	margin: 0;
+    /* margin-right: 10vw; */
 }
 .left-margin-container {
   	position: absolute;
   	top: 155px;
   	left: calc(30% - 589px);
+    /* right: 40vw; */
 }
 .navbar {
   	margin: 0;
