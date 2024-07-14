@@ -39,7 +39,7 @@
 .about-me-_mobile {
   	position: relative;
   	top: 2vh;
-  	left: 10px;
+    margin-left: 6vw;
   	display: inline-block;
   	width: 100vw;
     white-space: nowrap;
@@ -47,7 +47,7 @@
 .hello-world-container_mobile {
   	position: relative;
   	margin-top: 5vh;
-  	left: 20px;
+  	margin-left: 6vw;
   	display: inline-block;
   	width: 306px;
 }
@@ -64,18 +64,18 @@
 }
 .div2_mobile {
   	position: relative;
-  	top: 708px;
-  	left: 20px;
+  	top: 12vh;
+  	margin-left: 6vw;
 }
 .education_mobile {
   	position: relative;
-  	top: 678px;
-  	left: 20px;
+  	margin-top: 6vh;
+  	margin-left: 6vw;
 }
 .high-school-diploma-container_mobile {
   	position: relative;
-  	top: 734px;
-  	left: 20px;
+  	margin-top: 6vh;
+    margin-left: 6vw;
 }
 .msc-in-digital-container_mobile {
   	position: relative;
