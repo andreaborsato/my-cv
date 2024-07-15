@@ -3,7 +3,7 @@
 @media screen and (max-width: 999px) {
    .p_mobile {
   	margin: 0;
-  	white-space: nowrap;
+  	white-space: pre;
 }
 
 .logo_mobile{
@@ -99,48 +99,52 @@
 }
 .jan-2023_mobile {
   	position: relative;
-  	top: 1218px;
-  	left: 20px;
+  	margin-top: 16px;
+  	margin-left: 6vw;
 }
 .jan-2024_mobile {
   	position: relative;
-  	top: 1316px;
-  	left: 20px;
+  	margin-top: 16px;
+  	margin-left: 6vw;
 }
 .work-experiences_mobile {
   	position: relative;
-  	top: 992px;
-  	left: 20px;
+  	margin-top: 48px;
+  	margin-left: 6vw;
 }
 .web-developer-x-interdependenc-container_mobile {
   	position: relative;
-  	top: 1342px;
-  	left: 20px;
+  	margin-top: 8px;
+    margin-left: 6vw;
+    white-space: nowrap;
 }
 .exhibition-design-x-anthropoge-container_mobile {
   	position: relative;
-  	top: 1244px;
-  	left: 20px;
+  	margin-top: 8px;
+    margin-left: 6vw;
+    white-space: nowrap;
 }
 .web-content-editor-container_mobile {
   	position: relative;
-  	top: 1146px;
-  	left: 20px;
+  	margin-top: 8px;
+    margin-left: 6vw;
+    white-space: nowrap;
 }
 .brand-ambassador-x-save-container_mobile {
   	position: relative;
-  	top: 1048px;
-  	left: 20px;
+  	margin-top: 8px;
+    margin-left: 6vw;
+    white-space: nowrap;
 }
 .div3_mobile {
   	position: relative;
-  	top: 1022px;
-  	left: 20px;
+  	margin-top: 16px;
+  	margin-left: 6vw;
 }
 .div4_mobile {
   	position: relative;
-  	top: 1120px;
-  	left: 20px;
+  	margin-top: 16px;
+  	margin-left: 6vw;
 }
 .andrea-borsato1_mobile {
   	position: relative;
